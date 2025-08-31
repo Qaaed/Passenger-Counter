@@ -4,8 +4,7 @@ A simple web app built with **HTML, CSS, and JavaScript** to keep track of the n
 
 ## Features  
 - Increment the counter with a button click  
-- Save counts to a list of previous entries  
-- Clean and minimal UI  
+- Save counts to a list of previous entries   
 
 ## Live Demo  
 [View on Netlify](https://68b41e9c4e7aa43ba7289072--lustrous-heliotrope-efcde2.netlify.app/)  
